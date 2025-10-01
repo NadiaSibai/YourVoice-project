@@ -1,7 +1,7 @@
 # YourVoice (صوتك) – Let Your Hands Speak  
 
 **A real-time Arabic Sign Language (ArSL) recognition system built for healthcare accessibility.**  
-Using **MediaPipe keypoint extraction** and **BiLSTM deep learning models**, YourVoice translates sign gestures into **text**, enabling direct communication between Deaf patients and healthcare providers—without the need for interpreters.  
+Using **MediaPipe keypoint extraction** and **BiLSTM deep learning models**, YourVoice translates sign gestures into **text**, enabling direct communication between Deaf patients and healthcare providers, without the need for interpreters.  
 
 ---
 
