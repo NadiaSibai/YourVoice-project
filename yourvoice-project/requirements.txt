@@ -1,0 +1,10 @@
+mediapipe
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+opencv-python
+scikit-learn
