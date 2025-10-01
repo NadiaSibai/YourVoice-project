@@ -21,6 +21,16 @@ Using **MediaPipe keypoint extraction** and **BiLSTM deep learning models**, You
 
 ---
 
+## 🔹 Tech Stack
+
+**Pose Estimation:** MediaPipe  
+**Deep Learning Framework:** TensorFlow & Keras  
+**Core Model:** Bidirectional LSTM  
+**Data Processing:** NumPy, Pandas  
+**Computer Vision:** OpenCV
+
+---
+
 ## 📌 Future Work
 - Extend dataset diversity and signer variety to boost accuracy  
 - Develop a **two-way system**: text/speech → animated signs  
