@@ -6,7 +6,7 @@ Using **MediaPipe keypoint extraction** and **BiLSTM deep learning models**, You
 ---
 
 ## 🔹 Key Features
-- Real-time **Sign-to-Text & Speech** communication for Arabic-speaking Deaf individuals  
+- Real-time **Sign-to-Text** communication for Arabic-speaking Deaf individuals  
 - Optimized for **medical and emergency contexts**, ensuring faster, more accurate diagnosis  
 - Built with **MediaPipe Holistic** for keypoint extraction and **BiLSTM networks** for temporal sequence modeling  
 - Trained on the **KArSL dataset**, focused on medical terms, symptoms, and healthcare interactions  
