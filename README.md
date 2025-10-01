@@ -21,7 +21,7 @@ Using **MediaPipe keypoint extraction** and **BiLSTM deep learning models**, You
 
 ---
 
-## 🔹 Tech Stack
+## ⚙️ Tech Stack
 
 **Pose Estimation:** MediaPipe  
 **Deep Learning Framework:** TensorFlow & Keras  
